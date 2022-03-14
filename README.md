@@ -1,3 +1,5 @@
+![ReleaseVersion](https://img.shields.io/github/v/release/mr4lexndr/HomeBoard)
+![License](https://img.shields.io/github/license/mr4lexndr/HomeBoard)
 # HomeBoard
 Simple ESP32 based 4 Channel LV board for controlling Home appliances with HomeSpan
 
