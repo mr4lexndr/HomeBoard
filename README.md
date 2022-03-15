@@ -12,9 +12,10 @@ This work is licensed under a
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 # HomeBoard
-Simple ESP32 based 4 Channel LV board for controlling Home appliances with [HomeSpan](https://github.com/HomeSpan/HomeSpan)
-
+Simple ESP32 based 4 Channel LV board for controlling Home appliances with [HomeSpan](https://github.com/HomeSpan/HomeSpan).
 HomeBoard was created to controll variety of LED strips, and other Low voltage appliances. 
+
+![HomeBoard](https://github.com/mr4lexndr/HomeBoard/blob/main/Images/HomeBoard_transparent.png)
 
 ## Main Features
 - Supply Voltage 4-30V
