@@ -26,7 +26,7 @@ HomeBoard was created to controll variety of LED strips, and other Low voltage a
 
 
 ## User Integration with HomeSpan
-Status LED and Control Button are attached to deafault pins for most of the boards. S1 Button is used as boot button as well during programming
+Status LED and Control Button are attached to deafault pins for most of the boards. S1 Button is also used as boot button during programming
 - LED - GPIO2
 - Button - GPIO0
 
