@@ -19,4 +19,6 @@ HomeBoard was created to controll variety of LED strips, and other Low voltage a
 ## Main Features
 - Supply Voltage 4-30V
 - 4 PWM-eabled channels (0-Vin V, 25A)
+- Status LED and Control push button for easy configuration
 - 2 channels can be configured with Logic Level Shifters to drive Neopixels etc.
+- Switch or button option vailable.
