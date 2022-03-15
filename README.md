@@ -40,3 +40,8 @@ Four channels can be configured per requiremnts. Specific sections 1-3 has been 
 | 3       | Open Drain    | Switch (GPIO18)     |
 | 4       | Open Drain    | Switch (GND)        |
 
+
+# TO DO
+
+- 3D printed case
+- BOM
