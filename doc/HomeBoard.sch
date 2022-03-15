@@ -1345,7 +1345,7 @@ Datasheet (ADTSM63NVTR)</description>
 <packageinstance name="TACTILE_SWITCH_SMD_6.2MM_TALL"/>
 </packageinstances>
 </package3d>
-<package3d name="TACTILE_SWITCH_PTH_RIGHT_ANGLE_KIT" urn="urn:adsk.eagle:package:34599795/2" type="model" library_version="62" library_locally_modified="yes">
+<package3d name="TACTILE_SWITCH_PTH_RIGHT_ANGLE_KIT" urn="urn:adsk.eagle:package:34599795/3" type="model" library_version="62" library_locally_modified="yes">
 <description>Momentary Switch (Pushbutton) - SPST - PTH, Right-angle
 Normally-open (NO) SPST momentary switches (buttons, pushbuttons).
 Dimensional Drawing</description>
@@ -2014,7 +2014,7 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:34599795/2"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:34599795/3"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -5404,7 +5404,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="SUPPLY1" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="3.3V" device=""/>
 <part name="GND1" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
 <part name="SUPPLY2" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VCC" device=""/>
-<part name="S1" library="#AK-Library" library_urn="urn:adsk.eagle:library:17478144" deviceset="MOMENTARY-SWITCH-SPST" device="-PTH-RIGHT-ANGLE-KIT" package3d_urn="urn:adsk.eagle:package:34599795/2"/>
+<part name="S1" library="#AK-Library" library_urn="urn:adsk.eagle:library:17478144" deviceset="MOMENTARY-SWITCH-SPST" device="-PTH-RIGHT-ANGLE-KIT" package3d_urn="urn:adsk.eagle:package:34599795/3"/>
 <part name="IC1" library="#AK-Library" library_urn="urn:adsk.eagle:library:17478144" deviceset="L6981" device="" package3d_urn="urn:adsk.eagle:package:34599460/2"/>
 <part name="J1" library="#Connectors" library_urn="urn:adsk.eagle:library:17281549" deviceset="CONN_02" device="5MM" package3d_urn="urn:adsk.eagle:package:17403359/6"/>
 <part name="J2" library="#Connectors" library_urn="urn:adsk.eagle:library:17281549" deviceset="CONN_02" device="5MM" package3d_urn="urn:adsk.eagle:package:17403359/6"/>
