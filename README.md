@@ -41,7 +41,8 @@ Four channels can be configured per requiremnts. Specific sections 1-3 has been 
 | 4       | Open Drain    | Switch (GND)        |
 
 
-# TO DO
+## TO DO
 
+- Update resistor values
 - 3D printed case
 - BOM
