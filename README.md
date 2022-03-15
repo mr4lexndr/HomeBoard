@@ -22,3 +22,20 @@ HomeBoard was created to controll variety of LED strips, and other Low voltage a
 - 4 PWM-eabled channels (0-Vin V, 25A)
 - 2 channels can be configured with Logic Level Shifters to drive Neopixels etc.
 - Switch or button option vailable.
+
+
+## User Integration with HomeSpan
+Status LED and Control Button are attached to deafault pins for most of the boards. S1 Button is used as boot button as well during programming
+- LED - GPIO2
+- Button - GPIO0
+
+## Variants
+Four channels can be configured per requiremnts. Specific sections 1-3 has been marked on PCB. Only one group from each section should be soldered based on selected funtion. Available options:
+
+| Channel | Main Function | Alternative |
+| ------- | ------------- | ----------- |
+| 1       | Open Drain    | Logic Level (0-Vin) |
+| 2       | Open Drain    | Logic Level (0-Vin) |
+| 3       | Open Drain    | Switch (GPIO18)     |
+| 4       | Open Drain    | Switch (GND)        |
+
