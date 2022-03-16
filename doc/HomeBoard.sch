@@ -5434,7 +5434,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="Q5" library="#AK-Library" library_urn="urn:adsk.eagle:library:17478144" deviceset="MOSFET-N" device="-SOT23-3" package3d_urn="urn:adsk.eagle:package:17233478/4" value="BSS138"/>
 <part name="Q6" library="#AK-Library" library_urn="urn:adsk.eagle:library:17478144" deviceset="MOSFET-N" device="-SOT23-3" package3d_urn="urn:adsk.eagle:package:17233478/4" value="BSS138"/>
 <part name="GND6" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="D1" library="#AK-Library" library_urn="urn:adsk.eagle:library:17478144" deviceset="LED" device="-ANGLE-2MM" package3d_urn="urn:adsk.eagle:package:34599462/2"/>
+<part name="D1" library="#AK-Library" library_urn="urn:adsk.eagle:library:17478144" deviceset="LED" device="-ANGLE-2MM" package3d_urn="urn:adsk.eagle:package:34599462/2" value="LTST-S220TBKT"/>
 <part name="GND7" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
 <part name="R4" library="#AK-Library" library_urn="urn:adsk.eagle:library:17478144" deviceset="RESISTOR" device="0603" package3d_urn="urn:adsk.eagle:package:16984038/3" value="22R"/>
 <part name="GND8" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
@@ -5603,7 +5603,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </instance>
 <instance part="D1" gate="D1" x="132.08" y="58.42" smashed="yes" rot="R90">
 <attribute name="NAME" x="136.652" y="54.991" size="1.778" layer="95" font="vector" rot="R180"/>
-<attribute name="VALUE" x="136.652" y="60.325" size="1.778" layer="96" font="vector" rot="R180" align="top-left"/>
+<attribute name="VALUE" x="130.048" y="61.595" size="1.778" layer="96" font="vector" align="top-left"/>
 </instance>
 <instance part="GND7" gate="1" x="139.7" y="50.8" smashed="yes">
 <attribute name="VALUE" x="139.7" y="50.546" size="1.778" layer="96" align="top-center"/>
