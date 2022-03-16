@@ -43,6 +43,4 @@ Four channels can be configured per requiremnts. Specific sections 1-3 has been 
 
 ## TO DO
 
-- Update resistor values
 - 3D printed case
-- BOM
