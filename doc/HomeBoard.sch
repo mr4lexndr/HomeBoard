@@ -1345,7 +1345,7 @@ Datasheet (ADTSM63NVTR)</description>
 <packageinstance name="TACTILE_SWITCH_SMD_6.2MM_TALL"/>
 </packageinstances>
 </package3d>
-<package3d name="TACTILE_SWITCH_PTH_RIGHT_ANGLE_KIT" urn="urn:adsk.eagle:package:34599795/3" type="model" library_version="62" library_locally_modified="yes">
+<package3d name="TACTILE_SWITCH_PTH_RIGHT_ANGLE_KIT" urn="urn:adsk.eagle:package:34599795/4" type="model" library_version="63">
 <description>Momentary Switch (Pushbutton) - SPST - PTH, Right-angle
 Normally-open (NO) SPST momentary switches (buttons, pushbuttons).
 Dimensional Drawing</description>
@@ -1840,7 +1840,7 @@ Source: http://www.irf.com/product-info/datasheets/data/irfr5305pbf.pdf</descrip
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="ESP32-WROOM-32D" urn="urn:adsk.eagle:component:32045832/1" locally_modified="yes" prefix="U" library_version="62" library_locally_modified="yes">
+<deviceset name="ESP32-WROOM-32D" urn="urn:adsk.eagle:component:32045832/2" prefix="U" library_version="63">
 <description>Bluetooth, WiFi 802.11b/g/n, Bluetooth v4.2 + EDR, Class 1, 2 and 3 Transceiver Module 2.4GHz ~ 2.5GHz Integrated, Trace Surface Mount &lt;a href="https://pricing.snapeda.com/parts/ESP32-WROOM-32D/Espressif%20Systems/view-part?ref=eda"&gt;Check prices&lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="ESP32-WROOM-32D" x="0" y="0"/>
@@ -1900,7 +1900,7 @@ Source: http://www.irf.com/product-info/datasheets/data/irfr5305pbf.pdf</descrip
 </device>
 </devices>
 </deviceset>
-<deviceset name="MOMENTARY-SWITCH-SPST" urn="urn:adsk.eagle:component:34599465/1" locally_modified="yes" prefix="S" library_version="62" library_locally_modified="yes">
+<deviceset name="MOMENTARY-SWITCH-SPST" urn="urn:adsk.eagle:component:34599465/2" prefix="S" library_version="63">
 <description>&lt;h3&gt;Momentary Switch (Pushbutton) - SPST&lt;/h3&gt;
 &lt;p&gt;Normally-open (NO) SPST momentary switches (buttons, pushbuttons).&lt;/p&gt;
 &lt;h4&gt;Variants&lt;/h4&gt;
@@ -2014,7 +2014,7 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:34599795/3"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:34599795/4"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -2113,7 +2113,7 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="L6981" urn="urn:adsk.eagle:component:34599466/1" locally_modified="yes" prefix="IC" library_version="62" library_locally_modified="yes">
+<deviceset name="L6981" urn="urn:adsk.eagle:component:34599466/2" prefix="IC" library_version="63">
 <description>&lt;h3&gt;L6981 38 V, 1.5 A synchronous step-down converter &lt;/h3&gt;</description>
 <gates>
 <gate name="G$1" symbol="L6981" x="0" y="0"/>
@@ -2206,7 +2206,7 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="INDUCTOR" urn="urn:adsk.eagle:component:17522514/9" locally_modified="yes" prefix="L" uservalue="yes" library_version="62" library_locally_modified="yes">
+<deviceset name="INDUCTOR" urn="urn:adsk.eagle:component:17522514/10" prefix="L" uservalue="yes" library_version="63">
 <description>&lt;h3&gt;Inductor&lt;/h3&gt;
 &lt;p&gt;Resist changes in electrical current. Basically a coil of wire.&lt;/p&gt;</description>
 <gates>
@@ -2441,7 +2441,7 @@ Packages:
 </device>
 </devices>
 </deviceset>
-<deviceset name="LED" urn="urn:adsk.eagle:component:16985180/5" locally_modified="yes" prefix="D" uservalue="yes" library_version="62" library_locally_modified="yes">
+<deviceset name="LED" urn="urn:adsk.eagle:component:16985180/6" prefix="D" uservalue="yes" library_version="63">
 <description>&lt;b&gt;LED (Generic)&lt;/b&gt;
 &lt;p&gt;Standard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LEDs. Generic LEDs with no color specified.&lt;/p&gt;</description>
 <gates>
@@ -5404,7 +5404,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="SUPPLY1" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="3.3V" device=""/>
 <part name="GND1" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
 <part name="SUPPLY2" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VCC" device=""/>
-<part name="S1" library="#AK-Library" library_urn="urn:adsk.eagle:library:17478144" deviceset="MOMENTARY-SWITCH-SPST" device="-PTH-RIGHT-ANGLE-KIT" package3d_urn="urn:adsk.eagle:package:34599795/3"/>
+<part name="S1" library="#AK-Library" library_urn="urn:adsk.eagle:library:17478144" deviceset="MOMENTARY-SWITCH-SPST" device="-PTH-RIGHT-ANGLE-KIT" package3d_urn="urn:adsk.eagle:package:34599795/4"/>
 <part name="IC1" library="#AK-Library" library_urn="urn:adsk.eagle:library:17478144" deviceset="L6981" device="" package3d_urn="urn:adsk.eagle:package:34599460/2"/>
 <part name="J1" library="#Connectors" library_urn="urn:adsk.eagle:library:17281549" deviceset="CONN_02" device="5MM" package3d_urn="urn:adsk.eagle:package:17403359/6"/>
 <part name="J2" library="#Connectors" library_urn="urn:adsk.eagle:library:17281549" deviceset="CONN_02" device="5MM" package3d_urn="urn:adsk.eagle:package:17403359/6"/>
@@ -5415,8 +5415,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="C3" library="#AK-Library" library_urn="urn:adsk.eagle:library:17478144" deviceset="CAP" device="-0603" package3d_urn="urn:adsk.eagle:package:16984038/3" value="1uF"/>
 <part name="C4" library="#AK-Library" library_urn="urn:adsk.eagle:library:17478144" deviceset="CAP" device="-0603" package3d_urn="urn:adsk.eagle:package:16984038/3" value="0.1uF"/>
 <part name="L1" library="#AK-Library" library_urn="urn:adsk.eagle:library:17478144" deviceset="INDUCTOR" device="-7.3X6.6" package3d_urn="urn:adsk.eagle:package:34599461/2"/>
-<part name="R1" library="#AK-Library" library_urn="urn:adsk.eagle:library:17478144" deviceset="RESISTOR" device="0603" package3d_urn="urn:adsk.eagle:package:16984038/3" value=" "/>
-<part name="R2" library="#AK-Library" library_urn="urn:adsk.eagle:library:17478144" deviceset="RESISTOR" device="0603" package3d_urn="urn:adsk.eagle:package:16984038/3" value=" "/>
+<part name="R1" library="#AK-Library" library_urn="urn:adsk.eagle:library:17478144" deviceset="RESISTOR" device="0603" package3d_urn="urn:adsk.eagle:package:16984038/3" value="140k"/>
+<part name="R2" library="#AK-Library" library_urn="urn:adsk.eagle:library:17478144" deviceset="RESISTOR" device="0603" package3d_urn="urn:adsk.eagle:package:16984038/3" value="47k"/>
 <part name="SUPPLY3" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VCC" device=""/>
 <part name="GND2" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
 <part name="GND3" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
@@ -5436,7 +5436,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="GND6" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
 <part name="D1" library="#AK-Library" library_urn="urn:adsk.eagle:library:17478144" deviceset="LED" device="-ANGLE-2MM" package3d_urn="urn:adsk.eagle:package:34599462/2"/>
 <part name="GND7" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
-<part name="R4" library="#AK-Library" library_urn="urn:adsk.eagle:library:17478144" deviceset="RESISTOR" device="0603" package3d_urn="urn:adsk.eagle:package:16984038/3" value=" "/>
+<part name="R4" library="#AK-Library" library_urn="urn:adsk.eagle:library:17478144" deviceset="RESISTOR" device="0603" package3d_urn="urn:adsk.eagle:package:16984038/3" value="22R"/>
 <part name="GND8" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
 <part name="SUPPLY6" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="VCC" device=""/>
 <part name="R5" library="#AK-Library" library_urn="urn:adsk.eagle:library:17478144" deviceset="RESISTOR" device="0603" package3d_urn="urn:adsk.eagle:package:16984038/3" value="10k"/>
@@ -5470,6 +5470,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="PAD4" library="#Connectors" library_urn="urn:adsk.eagle:library:17281549" deviceset="SMD_PAD" device="SMD-1X1.5MM" package3d_urn="urn:adsk.eagle:package:22135520/2" value="SMD_PADSMD-1X1.5MM"/>
 <part name="GND15" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
 <part name="EN" library="#AK-Library" library_urn="urn:adsk.eagle:library:17478144" deviceset="MOMENTARY-SWITCH-SPST" device="-SMD-6.0X3.5MM" package3d_urn="urn:adsk.eagle:package:34599812/2"/>
+<part name="R13" library="#AK-Library" library_urn="urn:adsk.eagle:library:17478144" deviceset="RESISTOR" device="0603" package3d_urn="urn:adsk.eagle:package:16984038/3" value="10k"/>
+<part name="SUPPLY12" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="3.3V" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -5551,15 +5553,15 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <instance part="SUPPLY4" gate="G$1" x="96.52" y="160.02" smashed="yes">
 <attribute name="VALUE" x="96.52" y="162.814" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="C5" gate="G$1" x="104.14" y="104.14" smashed="yes">
-<attribute name="NAME" x="104.902" y="105.41" size="1.27" layer="95" font="vector"/>
-<attribute name="VALUE" x="106.426" y="103.378" size="1.27" layer="96" font="vector" rot="R270"/>
+<instance part="C5" gate="G$1" x="104.14" y="101.6" smashed="yes">
+<attribute name="NAME" x="104.902" y="102.87" size="1.27" layer="95" font="vector"/>
+<attribute name="VALUE" x="104.902" y="98.806" size="1.27" layer="96" font="vector"/>
 </instance>
-<instance part="SUPPLY5" gate="G$1" x="111.76" y="111.76" smashed="yes">
-<attribute name="VALUE" x="111.76" y="114.554" size="1.778" layer="96" align="bottom-center"/>
+<instance part="SUPPLY5" gate="G$1" x="104.14" y="111.76" smashed="yes">
+<attribute name="VALUE" x="104.14" y="114.554" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="GND4" gate="1" x="111.76" y="93.98" smashed="yes">
-<attribute name="VALUE" x="111.76" y="93.726" size="1.778" layer="96" align="top-center"/>
+<instance part="GND4" gate="1" x="104.14" y="93.98" smashed="yes">
+<attribute name="VALUE" x="104.14" y="93.726" size="1.778" layer="96" align="top-center"/>
 </instance>
 <instance part="C6" gate="G$1" x="22.86" y="93.98" smashed="yes">
 <attribute name="NAME" x="23.622" y="95.25" size="1.27" layer="95" font="vector"/>
@@ -5711,6 +5713,13 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <instance part="EN" gate="G$1" x="132.08" y="91.44" smashed="yes">
 <attribute name="NAME" x="132.08" y="92.964" size="1.778" layer="95" font="vector" align="bottom-center"/>
 </instance>
+<instance part="R13" gate="G$1" x="226.06" y="68.58" smashed="yes">
+<attribute name="NAME" x="226.06" y="71.374" size="1.27" layer="95" font="vector" align="bottom-center"/>
+<attribute name="VALUE" x="226.06" y="69.85" size="1.016" layer="96" font="vector" rot="R180" align="top-center"/>
+</instance>
+<instance part="SUPPLY12" gate="G$1" x="231.14" y="71.12" smashed="yes">
+<attribute name="VALUE" x="231.14" y="73.914" size="1.778" layer="96" align="bottom-center"/>
+</instance>
 </instances>
 <busses>
 </busses>
@@ -5823,12 +5832,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </segment>
 <segment>
 <pinref part="C5" gate="G$1" pin="1"/>
-<wire x1="104.14" y1="101.6" x2="104.14" y2="99.06" width="0.1524" layer="91"/>
-<wire x1="104.14" y1="99.06" x2="111.76" y2="99.06" width="0.1524" layer="91"/>
-<wire x1="111.76" y1="99.06" x2="111.76" y2="101.6" width="0.1524" layer="91"/>
 <pinref part="GND4" gate="1" pin="GND"/>
-<wire x1="111.76" y1="99.06" x2="111.76" y2="96.52" width="0.1524" layer="91"/>
-<junction x="111.76" y="99.06"/>
+<wire x1="104.14" y1="99.06" x2="104.14" y2="96.52" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="C6" gate="G$1" pin="1"/>
@@ -5920,14 +5925,11 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <segment>
 <pinref part="U1" gate="G$1" pin="3V3"/>
 <wire x1="88.9" y1="109.22" x2="104.14" y2="109.22" width="0.1524" layer="91"/>
-<wire x1="104.14" y1="109.22" x2="111.76" y2="109.22" width="0.1524" layer="91"/>
-<wire x1="111.76" y1="109.22" x2="111.76" y2="106.68" width="0.1524" layer="91"/>
 <pinref part="C5" gate="G$1" pin="2"/>
-<wire x1="104.14" y1="106.68" x2="104.14" y2="109.22" width="0.1524" layer="91"/>
+<wire x1="104.14" y1="104.14" x2="104.14" y2="109.22" width="0.1524" layer="91"/>
 <junction x="104.14" y="109.22"/>
 <pinref part="SUPPLY5" gate="G$1" pin="3.3V"/>
-<wire x1="111.76" y1="111.76" x2="111.76" y2="109.22" width="0.1524" layer="91"/>
-<junction x="111.76" y="109.22"/>
+<wire x1="104.14" y1="111.76" x2="104.14" y2="109.22" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="R3" gate="G$1" pin="2"/>
@@ -5959,6 +5961,12 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pinref part="SUPPLY11" gate="G$1" pin="3.3V"/>
 <wire x1="30.48" y1="25.4" x2="43.18" y2="25.4" width="0.1524" layer="91"/>
 <wire x1="43.18" y1="25.4" x2="43.18" y2="30.48" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="R13" gate="G$1" pin="2"/>
+<wire x1="228.6" y1="68.58" x2="231.14" y2="68.58" width="0.1524" layer="91"/>
+<wire x1="231.14" y1="68.58" x2="231.14" y2="71.12" width="0.1524" layer="91"/>
+<pinref part="SUPPLY12" gate="G$1" pin="3.3V"/>
 </segment>
 </net>
 <net name="EN" class="0">
@@ -6178,6 +6186,11 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pinref part="PAD2" gate="G$1" pin="P"/>
 <wire x1="226.06" y1="55.88" x2="223.52" y2="55.88" width="0.1524" layer="91"/>
 <label x="223.52" y="55.88" size="1.27" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="R13" gate="G$1" pin="1"/>
+<wire x1="223.52" y1="68.58" x2="220.98" y2="68.58" width="0.1524" layer="91"/>
+<label x="220.98" y="68.58" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="GPIO19" class="0">
