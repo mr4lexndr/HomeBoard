@@ -1,0 +1,19 @@
+Qty,Value,Device,Package,Parts,Description
+4,,CONN_025MM,SCREWTERMINAL-5MM-2,"J1, J2, J3, J4",Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections
+1,,CONN_04LOCK,1X04_LOCK,PROG,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections
+1,,INDUCTOR-7.3X6.6,INDUCTOR-7.3X6.6,L1,Inductor
+4,,MOSFET-N-DPAK,D-PAK_TO252AA,"Q1, Q2, Q3, Q4",N-Channel MOSFET in various packages
+3,0.1uF,CAP-0603,0603,"C4, C5, C6",
+10,10k,RESISTOR0603,0603,"R3, R5, R6, R7, R8, R9, R10, R11, R12, R13",Generic Resistor Package
+1,10uF,CAP-1206,1206,C1,
+1,140k,RESISTOR0603,0603,R1,Generic Resistor Package
+1,1uF,CAP-0603,0603,C3,
+1,22R,RESISTOR0603,0603,R4,Generic Resistor Package
+1,22uF,CAP-1206,1206,C2,
+1,47k,RESISTOR0603,0603,R2,Generic Resistor Package
+2,BSS138,MOSFET-N-SOT23-3,SOT23-3,"Q5, Q6",N-Channel MOSFET in various packages
+1,ESP32-WROOM-32D,ESP32-WROOM-32D,MODULE_ESP32-WROOM-32D,U1,"Bluetooth, WiFi 802.11b/g/n, Bluetooth v4.2 + EDR, Class 1, 2 and 3 Transceiver Module 2.4GHz ~ 2.5GHz Integrated, Trace Surface Mount Check prices"
+1,L6981,L6981,SO-8L,IC1,"L6981 38 V, 1.5 A synchronous step-down converter"
+1,LTST-S220TBKT,LED-ANGLE-2MM,LED-ANGLE-2MM,D1,LED (Generic)
+1,MOMENTARY-SWITCH-SPST-PTH-RIGHT-ANGLE-KIT,MOMENTARY-SWITCH-SPST-PTH-RIGHT-ANGLE-KIT,TACTILE_SWITCH_PTH_RIGHT_ANGLE_KIT,S1,Momentary Switch (Pushbutton) - SPST
+1,MOMENTARY-SWITCH-SPST-SMD-6.0X3.5MM,MOMENTARY-SWITCH-SPST-SMD-6.0X3.5MM,TACTILE_SWITCH_SMD_6.0X3.5MM,EN,Momentary Switch (Pushbutton) - SPST
