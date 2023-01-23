@@ -44,3 +44,5 @@ Four channels can be configured per requiremnts. Specific sections 1-3 has been 
 ## TO DO
 
 - 3D printed case
+- update power circuit with more common IC
+- 
