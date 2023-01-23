@@ -45,4 +45,4 @@ Four channels can be configured per requiremnts. Specific sections 1-3 has been 
 
 - 3D printed case
 - update power circuit with more common IC
-- 
+- update programming connector and decrease the size of the board
